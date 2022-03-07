@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luke570064514@gma.com
+	name = JIAWANG LIU
